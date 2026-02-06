@@ -4,7 +4,7 @@ A Java-based expense settlement system inspired by Splitwise that minimizes the 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Calculates net balance for each user from raw expense transactions
 - Minimizes total number of money transfers
@@ -14,7 +14,7 @@ A Java-based expense settlement system inspired by Splitwise that minimizes the 
 
 ---
 
-## 🧠 Algorithm & Approach
+## Algorithm & Approach
 
 ### Approach Used
 - **Greedy Algorithm**
@@ -31,7 +31,7 @@ At each step, the algorithm settles the maximum possible amount between the high
 
 ---
 
-## ⏱ Time & Space Complexity
+## Time & Space Complexity
 
 | Metric | Complexity |
 |------|-----------|
@@ -40,7 +40,7 @@ At each step, the algorithm settles the maximum possible amount between the high
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 - Java
 - Core Java Collections (`HashMap`, `PriorityQueue`)
@@ -48,7 +48,7 @@ At each step, the algorithm settles the maximum possible amount between the high
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Compile
 ```bash
